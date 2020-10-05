@@ -1,10 +1,10 @@
 # Unity-Scripts
 
-A few simple Unity scripts I wrote to help teach Unity to children game design with Deleware Steam Academy on Outschool.
+A few simple Unity scripts I wrote to help teach  game design to children using Unity and C# with Deleware Steam Academy on Outschool.
 
 ColorChangeCube:
 
-Script used to create a color changing cube that changes colors every 2 seconds which was used as a collectable item inside of a game created in the class
+Script used to create a color changing cube that changes colors every 2 seconds which was used as a collectable item inside of a game created in the class, used to teach coroutines.
 
 EnemyAI & lastCollider:
 
