@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
-public class Movement : MonoBehaviour
+public class RollingMovement : MonoBehaviour
 {
     public float speed;
     public Text countText;
